@@ -22,3 +22,4 @@ if number5 > highest_num: # If number5 is greater than highest_num
     highest_num = number5 # Update highest_num to number5
 
 # Print the highest number
+print("The highest number is: %s" % highest_num)
