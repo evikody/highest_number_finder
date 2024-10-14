@@ -6,6 +6,7 @@ number4 = float(input("Please enter the fourth number: "))
 number5 = float(input("Please enter the fifth number: "))
 
 # Set a variable as the highest number
+highest_num = number1 # Set highest_num to number1
 
 # Use if statements to find the highest number
 
